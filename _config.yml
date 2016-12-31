@@ -1,7 +1,7 @@
 url: "http://mlavinto.github.io"
 baseurl: ""
 
-title: Junction surface detail
+title: Tales from the Junction Surface
 
 description: 
 
@@ -9,6 +9,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
+  Index: "index"
   About Me: "aboutme"
 
 
