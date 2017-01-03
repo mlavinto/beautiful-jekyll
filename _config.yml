@@ -9,8 +9,6 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  Index: "index"
-#  Archive: "archive"
   About Me: "aboutme"
 
 
@@ -75,7 +73,7 @@ excerpt_length: 50
 
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Helsinki"
-markdown: maruku
+markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
