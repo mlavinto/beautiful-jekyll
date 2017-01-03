@@ -75,7 +75,7 @@ excerpt_length: 50
 
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Helsinki"
-markdown: kramdown
+markdown: maruku
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
