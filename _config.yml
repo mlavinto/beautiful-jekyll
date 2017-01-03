@@ -10,6 +10,7 @@ description:
 # List of links in the navigation bar
 navbar-links:
   Index: "index"
+#  Archive: "archive"
   About Me: "aboutme"
 
 
