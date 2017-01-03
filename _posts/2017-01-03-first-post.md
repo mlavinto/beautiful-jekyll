@@ -6,7 +6,7 @@ title: First post!
 Hello all! Welcome to my blog / personal rambling materials. Here I am hoping to write about my transition from academia (and physics in particular) into business (and data science in particular), and any other topics that I may find interesting, confusing or fun. In this first post, I thought maybe I should explain the name choice. 
 
 Suppose that we have a function f of a single variable t, which describes the motion of a ball. For a ball, the function satisfies the Newton's second law with zero force (if we don't touch it), $F = ma = 0$. The solutions to this equation are famously straight lines. Let's consider two particular solutions, $f_1(t) = 0$ and  $f_2(t) = t$. The first solution is stationary and the second solution moves at velocity of 1. We can construct a composite function by joining them together at $$t=0$$, which can be written as
-$$ f(t) = \begin{cases} 0 & t \leq 0 \\\\ t & t > 0 \end{cases} $$
+$$ f(t) = \begin{cases} 0, & t \leq 0 \\\\ t, & t > 0 \end{cases} $$
 
 Although the individual pieces of the composite function do satisfy the underlying equation, the composite itself does not. We have introduced a kink to the curve at $t=0$ by joining them together. Differentiating f twice yields the Dirac delta function $\delta(t)$, and it is not zero when $t=0$. In general, the composite of two solutions is not a solution any more, but the question then arises: can we construct a composite solution that *DOES* solve the original equation as well?
 
