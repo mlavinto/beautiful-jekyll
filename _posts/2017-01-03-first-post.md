@@ -2,7 +2,7 @@
 layout: post
 title: First post!
 use_math: true
---
+---
 
 Hello all!
 
