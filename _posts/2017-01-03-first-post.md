@@ -1,3 +1,9 @@
+---
+layout: post
+title: First post!
+use_math: true
+--
+
 Hello all!
 
 Welcome to my blog / personal rambling materials. Here I am hoping to write about my transition from academia (and physics in particular) into business (and data science in particular), and any other topics that I may find interesting, confusing or fun. In this first post, I thought maybe I should explain the name choice. 
